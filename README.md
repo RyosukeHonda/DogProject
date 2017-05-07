@@ -180,6 +180,7 @@ Perform a systematic evaluation of various methods for detecting humans and dogs
 
 
 ## Dog Classifier App
+static,templeates folders and app.py and dog_classifier.py files are for the dog classifier app.
 
 #### Additional dependencies
 	flask
@@ -188,3 +189,4 @@ Perform a systematic evaluation of various methods for detecting humans and dogs
 
 #### How to run
 	$python app.py
+
