@@ -3,7 +3,7 @@ from wtforms import SelectField,SubmitField,Form
 from flask import render_template,request
 import cv2
 import sys,os
-from dog import *
+from dog_classifier import *
 
 test_path = "static/test_images"
 app = Flask(__name__)
